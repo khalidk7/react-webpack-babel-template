@@ -1,12 +1,12 @@
 {
-  "name": "rgr1",
+  "name": "react-webpack-babel-template",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "start": "nodemon server.js --exec babel-node ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "kk",
+  "author": "khalidk7",
   "license": "ISC",
   "dependencies": {
     "babel-polyfill": "^6.22.0",
