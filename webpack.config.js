@@ -2,7 +2,7 @@ import webpack from 'webpack';
 import path from 'path';
 
 export default {
-  entry: "./public/js/app.js",
+  entry: "./js/app.js",
   debug: true,
   noInfo: false,
   output: {
